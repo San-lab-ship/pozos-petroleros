@@ -61,7 +61,7 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 https://san-lab-ship.github.io/pozos-petroleros/mi_mapa_interactivo%20(1).html
 
 4. Producción Real vs. Predicha para POZO_001
-Permite comparar la precisión del modelo frente a la producción registrada, incluyendo eventos operativos.
+https://san-lab-ship.github.io/pozos-petroleros/produccion_Pozo.html 
 
 ## Tecnologías Utilizadas
 Python 3.10
