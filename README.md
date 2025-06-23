@@ -1,3 +1,5 @@
+Predicción de Producción de Petróleo en Pozos Colombianos
+
 Predicción de Producción de Petróleo Predicción de Producción de Petróleo en Pozos Colombianos
 Este proyecto tiene como objetivo desarrollar un modelo de machine learning capaz de predecir la producción diaria de petróleo (BPD) en pozos ubicados en distintas cuencas sedimentarias de Colombia. El modelo permite anticipar la eficiencia productiva de los pozos y evaluar el impacto de diversas intervenciones operativas, como el fracturamiento hidráulico, cambios de bomba o estimulación ácida.
 
@@ -50,9 +52,9 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 1. Producción de Petróleo para el POZO_001 con Intervenciones
 ![image](https://github.com/user-attachments/assets/05e51d2a-fe75-404a-a734-277abcf62803)
 
-
 2. Costo Promedio por Tipo de Intervención (USD)
-Comparativo visual para identificar intervenciones más costosas y frecuentes.
+![Costo Promedio por Tipo de Intervención (USD)](https://raw.githubusercontent.com/San-lab-ship/mi-repo/main/docs/mi-imagen.png)
+
 
 3. Mapa Interactivo con los 5 Departamentos Petroleros
 Visualiza los pozos simulados sobre Meta, Casanare, Arauca, Santander y Putumayo con información emergente.
