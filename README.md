@@ -70,25 +70,23 @@ https://san-lab-ship.github.io/pozos-petroleros/mi_mapa_interactivo%20(1).html
 https://san-lab-ship.github.io/pozos-petroleros/produccion_Pozo.html 
 
 ## Tecnologías Utilizadas
-Python 3.10
 
-Pandas, NumPy
+✔️Python 3.10
+✔️Pandas
+✔️NumPy
+✔️Scikit-learn
+✔️Plotly
+✔️Folium
+✔️Jupyter Notebook / Google Colab
+✔️Joblib
+✔️diagrams.net (anteriormente Draw.io)
 
-Scikit-learn
-
-Plotly
-
-Folium
-
-Jupyter Notebook / Google Colab
-
-Joblib
-
-Draw.io
 
 ## Estructura del Proyecto
+
 pozos-petroleros/
 ├── README.md
+├── arquitectura_pozos_petroleros.png  # <-- ¡Aquí está!
 ├── notebooks/
 ├── src/
 │   ├── data_generation.py
