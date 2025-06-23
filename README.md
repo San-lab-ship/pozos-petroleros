@@ -79,7 +79,7 @@ https://san-lab-ship.github.io/pozos-petroleros/produccion_Pozo.html
 ✔️Folium
 ✔️Jupyter Notebook / Google Colab
 ✔️Joblib
-✔️diagrams.net (anteriormente Draw.io)
+✔️Draw.io
 
 
 ## Estructura del Proyecto
@@ -101,6 +101,8 @@ pozos-petroleros/
 │   └── produccion_pozo_001.png
 ├── requirements.txt
 └── .gitignore
+
+
  
 ## Conclusión
 
