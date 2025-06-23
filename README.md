@@ -31,19 +31,21 @@ Se entrenó un RandomForestRegressor optimizado con RandomizedSearchCV y validac
 
 Parámetros Óptimos del RandomForestRegressor:
 
-Parámetro	Valor Óptimo
-n_estimators	72
-max_features	0.85
-min_samples_leaf	17
-max_depth	15
+| Parámetro         | Valor Óptimo |
+|-------------------|--------------|
+| `n_estimators`    | 72           |
+| `max_features`    | 0.85         |
+| `min_samples_leaf`| 17           |
+| `max_depth`       | 15           |
 
 6. Evaluación del Modelo Final
 Métricas de Desempeño:
 
-Métrica	Valor
-R²	0.9575
-MAE	45.23 BPD
-RMSE	67.89 BPD
+| Métrica | Valor     |
+|---------|-----------|
+| `R²`    | 0.9575    |
+| `MAE`   | 45.23 BPD |
+| `RMSE`  | 67.89 BPD |
 
 ## Análisis de Errores
 Se identificaron los 10 errores más altos (positivos y negativos) para detectar sobreestimaciones y subestimaciones. Este análisis ayudó a validar la robustez del modelo frente a distintos escenarios de producción.
