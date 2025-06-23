@@ -45,7 +45,7 @@ R²	0.9575
 MAE	45.23 BPD
 RMSE	67.89 BPD
 
-Análisis de Errores
+## Análisis de Errores
 Se identificaron los 10 errores más altos (positivos y negativos) para detectar sobreestimaciones y subestimaciones. Este análisis ayudó a validar la robustez del modelo frente a distintos escenarios de producción.
 
 ## Visualizaciones del Análisis
@@ -77,10 +77,7 @@ Jupyter Notebook / Google Colab
 
 Joblib
 
-Estructura del Proyecto
-css
-Copiar
-Editar
+## Estructura del Proyecto
 pozos-petroleros/
 ├── README.md
 ├── notebooks/
@@ -98,7 +95,7 @@ pozos-petroleros/
 ├── requirements.txt
 └── .gitignore
  
-Conclusión
+## Conclusión
 
 El modelo final basado en Random Forest demostró una alta capacidad predictiva (R² de 0.9575) y una baja desviación de error, incluso en datos no vistos. La combinación de un pipeline robusto de procesamiento, ingeniería de características (incluyendo el impacto de las intervenciones) y herramientas de visualización hace que este modelo sea apto para aplicaciones reales en operaciones de campo o sistemas de monitoreo de producción petrolera.
 
