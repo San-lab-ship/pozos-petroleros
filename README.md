@@ -48,7 +48,8 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 
 ## Visualizaciones del Análisis
 1. Producción de Petróleo para el POZO_001 con Intervenciones
-![Mi imagen](https://raw.githubusercontent.com/usuario/repositorio/main/docs/mi_imagen.png)
+![image](https://github.com/user-attachments/assets/05e51d2a-fe75-404a-a734-277abcf62803)
+
 
 2. Costo Promedio por Tipo de Intervención (USD)
 Comparativo visual para identificar intervenciones más costosas y frecuentes.
