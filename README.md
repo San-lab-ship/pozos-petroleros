@@ -81,12 +81,17 @@ https://san-lab-ship.github.io/pozos-petroleros/produccion_Pozo.html
 ✔️Joblib
 ✔️Draw.io
 
+## Conclusión
+
+El modelo final basado en Random Forest demostró una alta capacidad predictiva (R² de 0.9575) y una baja desviación de error, incluso en datos no vistos. La combinación de un pipeline robusto de procesamiento, ingeniería de características (incluyendo el impacto de las intervenciones) y herramientas de visualización hace que este modelo sea apto para aplicaciones reales en operaciones de campo o sistemas de monitoreo de producción petrolera.
+
 
 ## Estructura del Proyecto
 
+```
 pozos-petroleros/
 ├── README.md
-├── arquitectura_pozos_petroleros.png  # <-- ¡Aquí está!
+├── arquitectura
 ├── notebooks/
 ├── src/
 │   ├── data_generation.py
@@ -100,11 +105,4 @@ pozos-petroleros/
 ├── docs/
 │   └── produccion_pozo_001.png
 ├── requirements.txt
-└── .gitignore
-
-
- 
-## Conclusión
-
-El modelo final basado en Random Forest demostró una alta capacidad predictiva (R² de 0.9575) y una baja desviación de error, incluso en datos no vistos. La combinación de un pipeline robusto de procesamiento, ingeniería de características (incluyendo el impacto de las intervenciones) y herramientas de visualización hace que este modelo sea apto para aplicaciones reales en operaciones de campo o sistemas de monitoreo de producción petrolera.
-
+└── .gitignore```
