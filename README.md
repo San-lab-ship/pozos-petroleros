@@ -58,7 +58,7 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 ![image](https://github.com/user-attachments/assets/5d0fd580-5ff8-4472-93da-22b918ecb558)
 
 3. Mapa Interactivo con los 5 Departamentos Petroleros
-file:///C:/Users/Lorena/Downloads/mapa_pozos_departamentos_interactivo%20(1).html 
+
 
 
 4. Producción Real vs. Predicha para POZO_001
