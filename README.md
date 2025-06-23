@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de machine learning capa
 ## Descripción del Problema
 Conocer de antemano la producción de crudo de un pozo es clave para planear mantenimientos, programar operaciones y optimizar recursos. Este proyecto utiliza un conjunto de datos simulados de producción diaria y eventos de intervención para construir un modelo predictivo robusto, aprovechando técnicas modernas de aprendizaje automático.
 
-## Arquitectura del Proyecto: Pozos Petroleros en Colombia
+## Arquitectura 
 
 Aquí se presenta la arquitectura de alto nivel del sistema de predicción de producción de petróleo:
 
