@@ -53,7 +53,7 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 ![image](https://github.com/user-attachments/assets/05e51d2a-fe75-404a-a734-277abcf62803)
 
 2. Costo Promedio por Tipo de Intervención (USD)
-![Costo Promedio por Tipo de Intervención (USD)](https://raw.githubusercontent.com/San-lab-ship/mi-repo/main/docs/mi-imagen.png)
+![image](https://github.com/user-attachments/assets/5d0fd580-5ff8-4472-93da-22b918ecb558)
 
 
 3. Mapa Interactivo con los 5 Departamentos Petroleros
