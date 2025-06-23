@@ -3,7 +3,7 @@
 Predicción de Producción de Petróleo Predicción de Producción de Petróleo en Pozos Colombianos
 Este proyecto tiene como objetivo desarrollar un modelo de machine learning capaz de predecir la producción diaria de petróleo (BPD) en pozos ubicados en distintas cuencas sedimentarias de Colombia. El modelo permite anticipar la eficiencia productiva de los pozos y evaluar el impacto de diversas intervenciones operativas, como el fracturamiento hidráulico, cambios de bomba o estimulación ácida.
 
-Descripción del Problema
+## Descripción del Problema
 Conocer de antemano la producción de crudo de un pozo es clave para planear mantenimientos, programar operaciones y optimizar recursos. Este proyecto utiliza un conjunto de datos simulados de producción diaria y eventos de intervención para construir un modelo predictivo robusto, aprovechando técnicas modernas de aprendizaje automático.
 
 ## Arquitectura del Proyecto: Pozos Petroleros en Colombia
@@ -12,7 +12,7 @@ Aquí se presenta la arquitectura de alto nivel del sistema de predicción de pr
 
 ![Arquitectura de pozos petroleros en Colombia](arquitectura_pozos_petroleros.png)
 
-Metodología
+## Metodología
 1. Carga y Exploración Inicial de Datos
 ✔️ DataFrames: df_produccion y df_intervenciones
 ✔️ Identificación de columnas clave, tipos de datos y fechas
@@ -35,7 +35,7 @@ Metodología
 5. Entrenamiento y Optimización del Modelo
 Se entrenó un RandomForestRegressor optimizado con RandomizedSearchCV y validación cruzada 3-fold.
 
-Parámetros Óptimos del RandomForestRegressor:
+## Parámetros Óptimos del RandomForestRegressor:
 
 | Parámetro         | Valor Óptimo |
 |-------------------|--------------|
@@ -83,6 +83,8 @@ Folium
 Jupyter Notebook / Google Colab
 
 Joblib
+
+Draw.io
 
 ## Estructura del Proyecto
 pozos-petroleros/
