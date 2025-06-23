@@ -1,7 +1,7 @@
-###Predicción de Producción de Petróleo Predicción de Producción de Petróleo en Pozos Colombianos
+Predicción de Producción de Petróleo Predicción de Producción de Petróleo en Pozos Colombianos
 Este proyecto tiene como objetivo desarrollar un modelo de machine learning capaz de predecir la producción diaria de petróleo (BPD) en pozos ubicados en distintas cuencas sedimentarias de Colombia. El modelo permite anticipar la eficiencia productiva de los pozos y evaluar el impacto de diversas intervenciones operativas, como el fracturamiento hidráulico, cambios de bomba o estimulación ácida.
 
-🧹 Descripción del Problema
+Descripción del Problema
 Conocer de antemano la producción de crudo de un pozo es clave para planear mantenimientos, programar operaciones y optimizar recursos. Este proyecto utiliza un conjunto de datos simulados de producción diaria y eventos de intervención para construir un modelo predictivo robusto, aprovechando técnicas modernas de aprendizaje automático.
 
 Metodología
@@ -46,12 +46,9 @@ RMSE	67.89 BPD
 Análisis de Errores
 Se identificaron los 10 errores más altos (positivos y negativos) para detectar sobreestimaciones y subestimaciones. Este análisis ayudó a validar la robustez del modelo frente a distintos escenarios de producción.
 
-
-
 ## Visualizaciones del Análisis
 1. Producción de Petróleo para el POZO_001 con Intervenciones
-![Gráfico Producción](https://raw.githubusercontent.com/tu_usuario/tu_repo/main/docs/produccion_pozo_001.png)
-
+![Mi imagen](https://raw.githubusercontent.com/usuario/repositorio/main/docs/mi_imagen.png)
 
 2. Costo Promedio por Tipo de Intervención (USD)
 Comparativo visual para identificar intervenciones más costosas y frecuentes.
@@ -77,7 +74,7 @@ Jupyter Notebook / Google Colab
 
 Joblib
 
-📁 Estructura del Proyecto
+Estructura del Proyecto
 css
 Copiar
 Editar
@@ -98,9 +95,7 @@ pozos-petroleros/
 ├── requirements.txt
 └── .gitignore
  
-
-
-## Conclusión
+Conclusión
 
 El modelo final basado en Random Forest demostró una alta capacidad predictiva (R² de 0.9575) y una baja desviación de error, incluso en datos no vistos. La combinación de un pipeline robusto de procesamiento, ingeniería de características (incluyendo el impacto de las intervenciones) y herramientas de visualización hace que este modelo sea apto para aplicaciones reales en operaciones de campo o sistemas de monitoreo de producción petrolera.
 
