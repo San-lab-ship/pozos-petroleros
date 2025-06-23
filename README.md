@@ -55,9 +55,9 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 2. Costo Promedio por Tipo de Intervención (USD)
 ![image](https://github.com/user-attachments/assets/5d0fd580-5ff8-4472-93da-22b918ecb558)
 
-
 3. Mapa Interactivo con los 5 Departamentos Petroleros
-Visualiza los pozos simulados sobre Meta, Casanare, Arauca, Santander y Putumayo con información emergente.
+[Ver Mapa Interactivo de Pozos en Colombia](https://github.com/TU_USUARIO/TU_REPO/blob/main/results/mapa_pozos_interactivo.html)
+
 
 4. Producción Real vs. Predicha para POZO_001
 Permite comparar la precisión del modelo frente a la producción registrada, incluyendo eventos operativos.
