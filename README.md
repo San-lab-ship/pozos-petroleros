@@ -1,7 +1,6 @@
 # Predicción de Producción de Petróleo en Pozos Colombianos 
 
-Predicción de Producción de Petróleo Predicción de Producción de Petróleo en Pozos Colombianos
-Este proyecto tiene como objetivo desarrollar un modelo de machine learning capaz de predecir la producción diaria de petróleo (BPD) en pozos ubicados en distintas cuencas sedimentarias de Colombia. El modelo permite anticipar la eficiencia productiva de los pozos y evaluar el impacto de diversas intervenciones operativas, como el fracturamiento hidráulico, cambios de bomba o estimulación ácida.
+El objetivo de este proyecto es la Predicción de Producción de Petróleo en Pozos Colombianos, a través del desarrollo de un modelo de machine learning capaz de anticipar la producción diaria (BPD) en pozos ubicados en diversas cuencas sedimentarias. Este análisis se centrará en departamentos clave como Meta, Casanare, Santander, Arauca y Putumayo. El modelo permitirá no solo proyectar la eficiencia productiva de los pozos, sino también evaluar el impacto de intervenciones operativas específicas, tales como el fracturamiento hidráulico, los cambios de bomba o la estimulación ácida.
 
 ## Descripción del Problema
 Conocer de antemano la producción de crudo de un pozo es clave para planear mantenimientos, programar operaciones y optimizar recursos. Este proyecto utiliza un conjunto de datos simulados de producción diaria y eventos de intervención para construir un modelo predictivo robusto, aprovechando técnicas modernas de aprendizaje automático.
@@ -67,7 +66,11 @@ Se identificaron los 10 errores más altos (positivos y negativos) para detectar
 https://san-lab-ship.github.io/pozos-petroleros/mi_mapa_interactivo%20(1).html
 
 4. Producción Real vs. Predicha para POZO_001
-https://san-lab-ship.github.io/pozos-petroleros/produccion_Pozo.html 
+https://san-lab-ship.github.io/pozos-petroleros/produccion_Pozo.html
+
+5. Análisis de Producción y Seguridad en Pozos Petroleros por Departamento
+![image](https://github.com/user-attachments/assets/7738c2ae-5142-42c0-8034-868fc1135fe3)
+
 
 ## Tecnologías Utilizadas
 
